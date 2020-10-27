@@ -1,0 +1,7 @@
+DEBUG 2020-10-27 12:37:48,717 :: El cliente tiene la ip: ('192.168.1.193', 58829)
+DEBUG 2020-10-27 12:37:48,717 :: Se enviará archivo 1. Tamaño: 100MB
+DEBUG 2020-10-27 12:37:50,562 :: El nombre del archivo es 100Mb.mp4
+DEBUG 2020-10-27 12:37:50,562 :: Tiempo actual: 27-10-2020-12:37:50
+DEBUG 2020-10-27 12:37:51,982 :: Los paquetes enviados fueron: 114905
+DEBUG 2020-10-27 12:37:51,982 :: El tiempo de transferencia fue: 1.4177567958831787
+DEBUG 2020-10-27 12:37:58,991 :: No se recibió confirmación del cliente.
